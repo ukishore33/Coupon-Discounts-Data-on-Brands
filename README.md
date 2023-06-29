@@ -1,11 +1,11 @@
-# Mann-Hospital-Data-on-Discounts
-The project is to visualize the Following problem Statements asked by the investors of Mann Hospitals.
+# Coupon,Discounts-Data-on-Brands
+The project is to visualize the Following problem Statements asked by the investors.
 
 a.	Pie chart to see percentage of discount on coupon basis.
 b.	Bar graph to compare particular coupons across all brands.
 c.	Trendline of particular discount of particular Brand.
 
-The Dataset contain Data regarding Discounts, Brands, etc., during 3 months
+The Dataset contain Data regarding Discounts, Brands, etc., during 3 months.
 
 Firstly The three datasets given by the Hospital is merged using google collab 
 
